@@ -1,0 +1,20 @@
+.card {
+    border: 1px solid #ccc; /* Light grey border */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    border-radius: 8px; /* Rounded corners */
+    padding: 16px; /* Space inside the card */
+    max-width: 300px; /* Maximum width, but you can adjust it */
+    margin: 20px auto; /* Center the card and add some margin around it */
+    background-color: #fff; /* White background */
+  }
+  
+  .card h2 {
+    margin-top: 0; /* Remove the top margin from the header */
+    color: #333; /* Dark grey color for the text */
+  }
+  
+  .card p {
+    color: #666; /* Lighter grey color for the body text */
+    line-height: 1.6; /* Make text more readable with more space between lines */
+  }
+  
